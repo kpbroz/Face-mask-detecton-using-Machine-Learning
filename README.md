@@ -1,0 +1,2 @@
+# Face-mask-detecton-using-Machine-Learning
+In order to prevent the spreading of COVID-19, as per the government’s guidelines, it is  mandatory to wear face mask in public places. Inspite of this, some people don’t wear mask and even if  they wear they don’t wear it properly. Inspecting this in a crowd is humongous task for authorities.  To resolve this problem, we came up with a solution i.e., Face mask detection using Machine  Learning.
